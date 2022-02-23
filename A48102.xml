@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from Winchester, in answer to his lordship's time-serving query whether passive obedience is only a bugbear, and fit for fools, or a Christian duty?</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48102</idno>
+            <idno type="STC">Wing L1548</idno>
+            <idno type="STC">ESTC R16321</idno>
+            <idno type="EEBO-CITATION">12280260</idno>
+            <idno type="OCLC">ocm 12280260</idno>
+            <idno type="VID">58682</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58682)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 921:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from Winchester, in answer to his lordship's time-serving query whether passive obedience is only a bugbear, and fit for fools, or a Christian duty?</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Allen Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allegiance --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:58682:1" rendition="simple:additions"/>
+            <head>A LETTER FROM WINCHESTER, In Anſwer to his Lordſhip's time-ſerving <hi>Query, Whether Paſsive Obedience is only a Bugbear, and fit for Fools, or a Chriſtian Duty?</hi>
+            </head>
+            <p>Printed by the Command of the Noble Peer.</p>
+            <q>
+               <p>
+                  <hi>Praeſtat per virtutem mori, quam per dedious vivere.</hi>
+               </p>
+               <bibl>Sen.</bibl>
+            </q>
+            <p>THis Query was delivered to me by the hands of honeſt <hi>Elk</hi>—your Lordſhips Secretary; and it will not be amiſs in the handling of this Queſtion, to pre<g ref="char:EOLhyphen"/>miſe the worth and beginning of <hi>Monarchy,</hi> which I conceive is as ancient as Time it ſelf: for the Obedience which all Subjects (at this day) yield to Kings, is no more than the yielding of that duty which is due to the Supreme Father<g ref="char:EOLhyphen"/>hood. <hi>Adam,</hi> the firſt Father, had not only ſimply Power, but Power Monarchical, as he was a Father immediately from God, for by the divine appointment, as ſoon as he was created, he was Monarch of the World, though he had no Subjects; And al<g ref="char:EOLhyphen"/>though there could not be actual Government until there were Subjects, yet by the right of Nature it was <hi>Adam</hi>'s due to be Supreme or Governour over all his Poſterity; though not in act, yet at leaſt in habit, he was a King from his Creation. And none doubt in the ſtate of Innocency but that <hi>Adam</hi> had been Governour of all his Children; for the Integrity or Excellency of the Subjects doth not take away the Order or Emi<g ref="char:EOLhyphen"/>nency of the Governour. And although as long as men continued their ſtate of Inno<g ref="char:EOLhyphen"/>cence, they might not need the direction of <hi>Adam</hi> in thoſe things which were neceſſarily and morally to be done; yet in matters purely indifferent, that depended meerly on their own free wills, they might be directed by the Power of <hi>Adam</hi>'s Command. <hi>Eve</hi> was ſubject to <hi>Adam</hi> before he ſinned, and the Angels, who are of a pure nature, are ſubject to God.</p>
+            <p>For the Dignity of <hi>Monarchy,</hi> theſe are the words of the Almighty; <hi>By Me Kings Reign, &amp;c.</hi> And again<note n="a" place="margin">Ec. 8.4.</note> 
+               <hi>Where the word of a King is, there is Power; and who may ſay unto him, what dost thou?</hi> And holy <hi>Job</hi> put this Query,<note n="b" place="margin">Job 34.8</note> 
+               <hi>Is it fit to ſay to a King, Thou art wicked?</hi> much leſs to expoſe them to violence. But this Command,<note n="c" place="margin">1 Ch. 16.22</note> 
+               <hi>Touch not mine Annointed,</hi> (being uttered by the Majeſty of Heaven) renders the Perſons of Princes Sacred, and puts a Guard upon them; which to violate, though in our own defence, is to proclaim open War againſt God himſelf, by the breach of his Divine Command.</p>
+            <pb n="2" facs="tcp:58682:2"/>
+            <p>And as to the Power of Kings,<note place="margin">De Benefic. lib. 7. c. 4. Ad Scapul. c. 2.</note> 
+               <hi>Seneca</hi> tells us, <hi>Ad Reges potestas omnium pertinet, ad ſingulos proprietas.</hi> And <hi>Tertullian</hi> tells us, <hi>Colimus Imperatorum ſic quomodo &amp; nobis licet, &amp; ipſi expedit ut Hominem à Deo ſecundum, &amp; ſolo Deo minorem; Hoc &amp; ipſe volet, ſic enim omnibus major eſt, dum ſolo vero Deo minor eſt:</hi> Kings are only in the power of God, from whom they are ſecond, after whom firſt, before and above all others. And our late Biſhop of <hi>Lincoln,</hi> in his excellent Diſcourſe of <hi>Popery,</hi> p. 4. ſays, England <hi>is a Monarchy, the Crown Imperial, and our Kings Supreme Governours of this Realm, and all other their Dominions, &amp;c.</hi> In our Oath of Supremacy we ſwear, <hi>That the King is the Su<g ref="char:EOLhyphen"/>preme,</hi> ſo none (not the <hi>Pope</hi>) above him; and only Supreme, ſo none (not the Peo<g ref="char:EOLhyphen"/>ple) co-ordinate, or equal to him.</p>
+            <p>The true Church of Chriſt hath always known no other Weapons to reſiſt a Lawful Sovereign, than Prayers, Tears and Sufferings; Elſe why do we bear the Sign of the Croſs, if we have not Courage, Chriſtian Courage, of force enough to endure, not reſiſt with violence, the moſt exquiſite Tortures that can be impoſed on us (upon the ſcore of our Religion) by a lawful Authority? St. <hi>Ambroſe</hi> receiving Imperial Command to deliver up the Churches, ſays, <hi>Quid ergo turbamini? volens nunquam vos deſeram, coactus repugnare non novi, dolere potero, potero flere, potero gemere: ad<g ref="char:EOLhyphen"/>verſus arma, milites,</hi> Gothos <hi>quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Lachrymae meae arma ſunt:</hi> If I be compelled, I may not oppoſe: I may grieve, I may weep, I may ſigh: Againſt Arms, Souldiers, the <hi>Goths</hi> alſo, my Tears are my Weapons: Such are the Guards of a Prieſt, I nei<g ref="char:EOLhyphen"/>ther can, nor ought to make other defence.</p>
+            <p>But to reſolve one doubt by the way; Suppoſe a Prince ſhould ſend his Officers to take away the Life of an Innocent man, how far is he bound by his Chriſtianity not to reſiſt? I do not believe that he is obliged to open his Breaſt to the Dagger: No, our Bleſſed Saviour tells us, it is lawful for ſuch an one to ſave himſelf by flight, who bid his Diſciples when they were perſecuted in one place, to fly to another. It does as readily follow, that for his own Preſervation in this Caſe, he may hide himſelf from their fury, or otherwiſe make all the defence for his own Life that he can, without violence; For all this while he does but hinder the Officers from doing evil, and keeps his Prince from the Guilt of Innocent Bloud, and ſaves himſelf: But whether this perſon (hitherto Innocent) may imbrue his hands in the Bloud of the Prince's Officers, ſuppoſing there is no other way to ſave his Life, but by their Deaths? And in this Caſe, I think he is bound (by the Rules of Chriſtian Religion) rather to permit his own Bloud to be ſhed unjuſtly, than ſhed any himſelf, though ſome ima<g ref="char:EOLhyphen"/>gine that ſelf-preſervation in this caſe doth oblige him to reſiſt, even to Bloud. For my part, I could never learn either by the Doctrine or Example of the Son of God, the Obligation of this ſelf-preſervation; for albeit ſelf-preſervation would incline a man to kill in this Caſe, yet I cannot find any dutiful Obligation ſo to do; and though we have a right by Nature to preſerve our ſelves, yet in this caſe, if he ſuffer death, rather than reſiſt Authority by Bloud, no man will determine that he is thereby guilty of any ſin; And this is of more force, when the Innocent man conſiders, that he may ſhed Innocent Bloud; for theſe Officers come in Obedience to their Prince, and they may be ignorant (innocently ignorant) whether he be not an Offender that has deſerved death. Moreover, if a man ought to ſuffer, even to death, as the Primitive Chriſtians did when the Cauſe was purely Spiritual; much more ought he in all Temporal Caſes. Now this (as I think) being the Caſe of every particular man, it is the obligation of the People too; Neither indeed can I ſee what Priviledges of the Subject, what Rights, what preſervation of our Lives, can compound for the leaſt Sin, unleſs we prefer this Life to Eternity. To ſuffer meekly, out of a regard to my duty, is certainly no ſtupidity, (as ſome would have it) but an excellent Virtue. Nor do I think this paſſive Patience,<note place="margin">Phanaticks</note> a piece of Cowardlineſs, or want of mettle, but rather Fortitude joyned with Meekneſs, to dare to endure all things, even Death it ſelf, rather than do miſchief, unleſs the fear of Eternal Miſery be Cowardiſe.</p>
+            <pb n="3" facs="tcp:58682:2"/>
+            <p>But ſome will ſay that paſſive Obedience is but a Bugbear, and fit for Fools;<note place="margin">Char. Pop. Suc. fo. 24.</note> and the defence of it an effect of Ignorance, (which brings the reproach home to the very perſon, as well as to the Doctrines of our Bleſſed Saviour) or that ſuch paſſive Piety was more requiſite in former times, when God's Deſign was to convert the World, by ſuffering, not ſubduing; when the Seeds of Religion muſt be watered with the Bloud of Martyrs, than now in theſe purer times of Reformation.<note place="margin">Sanguis Martyrum ſemen Eccle<g ref="char:EOLhyphen"/>ſiae.</note> Yet we ſee <hi>Calvin</hi> adviſes us not to fight for Righteouſneſs: <hi>Si ab impio &amp; ſacrilego principe vexamur ob pietatem, ſubeat primum delictorum nostrorum recordatio, quae talibus haud dubiè Domini flagellis caſtigantur; Inde humilitas impatientiam noſtram fraenavit:<note place="margin">Calv. Iuſt. l. 4. c. 20. Art. 29.</note> Succurrat deinde haec cogitatio, non noſtrum eſſe hujuſmodi malis mederi, hoc tantum eſſe reliquum, ut Domini opem imploremus, cujus in manu ſunt regum corda &amp; regnorum inclinationes.</hi> If we be perſecuted for Godllneſs, by an Impious and Sacrilegious Prince, let us firſt of all remember our Sins, which no doubt are corrected by God with Scourges; this will bridle our Impatience with humility: Then let us entertain this thought, that 'tis not our part to heal ſuch diſtempers; that this is our only remedy, to appeal to God's aſſiſtance, in whoſe hand are the Hearts of Kings, and the Inclinations of Kingdoms. And the ſame <hi>Calvin</hi> in another place tells us, the Prophet <hi>Jeremiah</hi> clearly reſolves this Queſtion: <hi>Inſignis eſt &amp; memorabilis apud</hi> Jeremiam <hi>locus,</hi>
+               <note place="margin">Calv. Inſt. Iib. 4.</note> 
+               <hi>quem tamet ſi prolixiorem, ideo non pigebit referre, quia totam hanc queſtionem clariſſimè definit.</hi> The words of the Prophet follow:<note place="margin">Jer. 27.6, 8, 9, 12.</note> 
+               <hi>(viz.) I have given all theſe Lands into the hands of</hi> Ne<g ref="char:EOLhyphen"/>buchadnezzar <hi>King of</hi> Babylon. <hi>And it ſhall come to paſs, that the Nation and Kingdom which will not ſerve the ſame</hi> Nebuchadnezzar <hi>King of</hi> Babylon, <hi>and that will not put their Neck under the Yoke of the King of</hi> Babylon, <hi>that Nation will I puniſh (ſaith the Lord) with the Sword, and with the Famine, and with the Peſtilence, until I have con<g ref="char:EOLhyphen"/>ſumed the Land: Therefore hearken not ye unto your Prophets, nor to your Diviners, and which ſpeak unto you, ſaying, Ye ſhall not ſerve the King of</hi> Babylon, <hi>&amp;c:</hi> Upon which place ſays <hi>Calvin, Videmus quantâ obedientiâ Dominus tetrum illum ferocemq,</hi>
+               <note place="margin">Calv. Inſt. l. 4. c. 20. Art. 27.</note> 
+               <hi>Tyrannum coli voluerit, non aliâ ratione niſi qui regnum obtinebat;</hi> We ſee what obedi<g ref="char:EOLhyphen"/>ence the Lord will have given to this wicked and fierce Tyrant; for no other reaſon, but becauſe he was a King. And <hi>Beza</hi> ſays as much:<note place="margin">Epiſt. 23. ad Peregri. Eccl. in Aug. fra<g ref="char:EOLhyphen"/>tres.</note> 
+               <hi>Illud ſolis praecibus &amp; patientiâ ſanari poteſt:</hi> The remedy againſt this Poyſon is Prayer, not Vengeance. We muſt be ſubject, for conſcience-ſake.</p>
+            <p>In a word; If it be lawful in no caſe to retaliate miſchief; If in all caſes it be virtuous to ſuffer, and the more hard the thing, the more noble the virtue, there is no difficulty in the point as to the matter of duty; the Quarrel is only betwixt Duty, and Fleſh and Bloud: When we ſay, 'tis an hard caſe, we cannot intend that 'tis hard for a Chriſtian to find his duty, if he dares do well, but rather 'tis an hard duty to endure Evil.</p>
+            <p>Our <hi>Bleſſed Saviour</hi> had either a Power of force enough to reſiſt (and ſo prevent) his Enemies, or he had not: No Man will be ſo Impudently wicked, as to deny the firſt, or affirm the latter. It follows then, that he ſubmitted to the Death of the <hi>Croſs,</hi> either becauſe he deſerved to Die, or elſe becauſe he would not reſiſt the Authority of thoſe that put him to Death: But he that knew no Sin, deſerved no Puniſhment, and when he then Suffers, it is on the ſcore of paſſive Obedience. Hence it is Evi<g ref="char:EOLhyphen"/>dent, that this ſort of paſſive Piety is no <hi>Chimaera,</hi> but a neceſſary duty, to be pra<g ref="char:EOLhyphen"/>ctiſed by ſuch as dare imitate the example of the <hi>Lamb of God.</hi> The denyal of this Doctrine renders <hi>Chriſt</hi>'s Paſſion and his <hi>Holy Goſpel</hi> light and frivolous, meer <hi>Enthu<g ref="char:EOLhyphen"/>ſiaſme</hi> and <hi>Impoſture.</hi> And although our Saviour did ſuffer for the Sins of Man-kind, and it was neceſſary that he ſhould die, yet he himſelf deſerved no Puniſhment; And tho' the <hi>Romane</hi> Authority had power of his Life: (to which he ſubmitted) Yet that cannot excuſe the ſentence of his Judge from being rigid and unjuſt. Every Maje<g ref="char:EOLhyphen"/>ſtrate that dares Pronounce an unjuſt Judgment, muſt certainly be accountable, to the All-righteous Judge. But we muſt leave our Innocence to be revenged till then,
+<pb n="4" facs="tcp:58682:3"/>and in the mean time; In all things ſubmit our ſelves to our Superiors, for the Lords ſake.</p>
+            <p>And laſtly, if we ſhould lay aſide the duty, <hi>Argumentum ab inconvenienti</hi> may pre<g ref="char:EOLhyphen"/>vail; for it is much better for the people to ſuffer a great deal of Cruelty, than to riſe up in Arms, and overthrow the Government. I remember <hi>Livy</hi>'s <hi>Nec morbum ferre poſſumus,</hi>
+               <note place="margin">Of which the Promo<g ref="char:EOLhyphen"/>ters and Proſecutors are deeply Guilty.</note> 
+               <hi>nec remedium.</hi> Never yet was any Rebellion free from the guilt of powring out a great deal of Innocent Bloud, beſides the many mighty Injuries and Oppreſſions that muſt inevitably fall upon the heads of a great number of men. So that we had much better, with patience, ſuffer the preſent Calamities, than endure worſe, and bring by our means much worſe upon others; cloſing with the wholſom advice of <hi>Tacitus:<note place="margin">Annal 12.</note> Ferenda Regum ingenia, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> uſui eſſe crebras mutationes, vitia erunt donec homines, ſedne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> hac continua, &amp; meliorum interventu penſantur.</hi>
+            </p>
+            <p>And now, my Lord, your ſufferings have been highly eminent and notorious to the whole World; You ſuffered your ſelf to be tranſported by the Zeal of Fanaticiſm, to raiſe Arms againſt our late Martyr'd Sovereign, and afterwards (as far as in you lay) you did ſtrangely ſuffer the King's Head to be cut off, and then with meek<g ref="char:EOLhyphen"/>neſs you did ſuffer the deſerved reproaches of the People for that moſt abominable Fact.</p>
+            <p>You ſuffered your ſelf to be loaden with heavy burdens of Places of Truſt and Confidence to that Cruel and Bloudy Tyrant <hi>Oliver;</hi> You ſuffered your ſelf (even actively) to be concerned with thoſe Rebels in rooting up the Monarchy, and in im<g ref="char:EOLhyphen"/>poſing the worſt of Cruelties on the King's Party. In a word, your Sufferings of the late Times after this rate, are matchleſs and innumerable.</p>
+            <p>You ſuffered your ſelf, when you could not helpt it, and for the ſake of <hi>VARIETY,</hi> (your Lordſhips Motto) to be a little concerned in the Kings Reſtauration, you then ſoon ſuffered your ſelf (by the contrivances of a curſed <hi>Hypocriſie</hi>) to be thruſt into the Kings favour, and who ſo great as your little Lordſhip? you ſuffered your ſelf, after all, to be ungrateful; and herein you ſuffered your ſelf to be cryed out againſt, as the greateſt Villain upon the face of the Earth, You unluckily ſuffered your ſelf to adviſe his Majeſty to ſhut up the <hi>Exchequer,</hi> to break the <hi>Triple League,</hi> To di<g ref="char:EOLhyphen"/>vide the <hi>Fleet, &amp;c.</hi> You ſuffered your ſelf to be blowed upon by the ſtinking breath of the Rabble, which ſwelled you into a Popularity; you have likewiſe ſuffered your ſelf to be Poyſoned by the Venom of Helliſh <hi>Plots;</hi> and you now Vomit forth nothing but <hi>Devils!</hi> and <hi>Hell!</hi> and <hi>Damnation! Sedition in Speeches,</hi> and <hi>Treaſon</hi> in <hi>Tricks</hi> and <hi>Devices.</hi>
+            </p>
+            <p>Amidſt all theſe Notorious inſtances of your Lordſhips paſſive Patience, there is none to be reckoned of more note than this, that you have hitherto ſuffered (as tis verily believed) much againſt your own Inclinations this King to wear his Crown and Royal Head; Notwithſtanding they talk of 60000 Men ready to force the King to coruply with his Parliament; or elſe to bring him to the Block. And in many other things of the greateſt moment you have ſuffered in theſe times; Which when time ſhall diſcover, if your Lordſhip ſhould ſuffer your Head to be Chopt off! O! the cryes of the <hi>PARTY!</hi>
+            </p>
+            <closer>
+               <signed>Voe nobis Infamis!</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for ALLEN BANKS. 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
